@@ -1,0 +1,1 @@
+let raqam = 10;
